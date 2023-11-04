@@ -40,6 +40,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/nivij/nivij/output/snake.svg" alt="Snake animation" />
 
 ###
