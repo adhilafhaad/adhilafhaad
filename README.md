@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Adhil Afhaad 👋</h1>
+<h1 align="center">Hi there, I'm Adhilul Afhaad 👋</h1>
 
 <p align="center">
   <img src="https://gifdb.com/images/high/programming-stick-figure-going-crazy-on-fire-j6ii4pju9xdtnsbr.webp" alt="Coding Gif" width="200"/>
