@@ -39,16 +39,7 @@
 
 ---
 
-### 🌟 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/yourusername/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adhilafhaad&repo=project1&theme=radical" />
-  </a>
-  <a href="https://github.com/yourusername/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adhilafhaad&repo=project2&theme=radical" />
-  </a>
-</div>
 
 ---
 
@@ -59,6 +50,7 @@
   <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://dev.to/yourusername"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
 </p>
+
 
 ---
 
