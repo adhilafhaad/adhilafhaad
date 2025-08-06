@@ -15,7 +15,6 @@
 ```typescript
 const adhilul = {
     pronouns: "he/him",
-    location: "🌍 Earth",
     currentFocus: ["Full Stack Development", "Cloud Architecture", "Open Source"],
     technologies: {
         backend: ["Laravel", "PHP", "Python"],
